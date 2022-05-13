@@ -1,0 +1,66 @@
+body {
+    background: url(../images/LoginBackgroundImage.jpeg) no-repeat fixed center;
+    background-size: cover;
+}
+
+#login-area {
+    background: #2E90FC;
+    max-width: 400px;
+    min-width: 250px;
+    text-align: center;
+    margin-top: 8vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2vh;
+    padding-top: 1vh;
+}
+
+#login-area img {
+    width: 30%;
+}
+
+
+#login-area h1 {
+    color: #DCE4FF;
+    margin: 0;
+    font-size: 25px;
+}
+
+.input-area {
+    display: inline-block;
+    margin: 5%;
+    width: 55%;
+}
+
+.input-area input {
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+}
+
+.input-box input{
+    width: 100%;
+    background-color: #8AAEF4;
+    margin-bottom: 10px;
+    border: none;
+    padding: 1.5%;
+    font-size: 14px;
+}
+
+#esqueci-senha {
+    width: 70%;
+    padding-top: 1.5%;
+    margin: 0 auto 3%;
+}
+
+
+.btn-box button{
+    width: 30%;
+    height: 5%;
+    background-color: #DCE4FF;
+    color: #8AAEF4;
+    padding: 1%;
+    border-radius: 2px;
+    border: none;
+    font-size: 20px;
+
+}
